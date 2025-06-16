@@ -1,0 +1,13 @@
+{
+  "type": "createaddition:charging",
+  "energy": 3200,
+  "ingredient":
+  {
+    "item": "minecraft:compass"
+  },
+  "max_charge_rate": 200,
+  "result":
+  {
+    "id": "ae2:meteorite_compass"
+  }
+}
