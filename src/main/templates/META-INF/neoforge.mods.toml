@@ -9,6 +9,7 @@ displayName="${mod_name}"
 authors="${mod_authors}"
 description='''${mod_description}'''
 logoFile="icon.png"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/create-ae2-recipes"
 
 [[dependencies.${mod_id}]]
     modId="neoforge"

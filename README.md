@@ -1,25 +1,85 @@
+# Create: AE2 recipes
+<img src="src/main/resources/icon.png">
 
-Installation information
-=======
+Download : https://www.curseforge.com/minecraft/mc-mods/create-ae2-recipes <br>
+Game Versions : 1.21.1 <br>
+License : MIT <br>
+Mod Loader : NeoForge
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+# 概要
+AE2のアイテムをCreateの作業機械で制作できるようにするCreateアドオンです．<br>
+CreateとAE2が導入されている環境で動作します．<br>
+精密機械の生産ラインを組んでコンベアで流れるプロセッサを眺めましょう！
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+# 追加するレシピ
+### Sequenced Assembly
+Calculation Processor<br>
+Engineering Processor<br>
+Logic Processor<br>
+Basic Card<br>
+Advanced Card<br>
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+### Mixing
+Certus Quartz Crystal<br>
+Fluix Crystal<br>
+Damaged Budding Quartz<br>
+Chipped Budding Quartz<br>
+Flawed Budding Quartz<br>
+Flawless Budding Quartz<br>
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+### Deploying
+Fluix Covered Cable<br>
+Fluix Smart Cable<br>
+Fluix Smart Dense Cable<br>
+Capacity Card<br>
+Crafting Card<br>
+Energy Card<br>
+Equal Distribution Card<br>
+Fuzzy Card<br>
+Inverter Card<br>
+Redstone Card<br>
+Acceleration Card<br>
+Overflow Destruction Card<br>
+1k ME Item Storage Cell<br>
+4k ME Item Storage Cell<br>
+16k ME Item Storage Cell<br>
+64k ME Item Storage Cell<br>
+256k ME Item Storage Cell<br>
+1k ME Fluid Storage Cell<br>
+4k ME Fluid Storage Cell<br>
+16k ME Fluid Storage Cell<br>
+64k ME Fluid Storage Cell<br>
+256k ME Fluid Storage Cell<br>
+2^3 Spatial Storage Cell<br>
+16^3 Spatial Storage Cell<br>
+128^3 Spatial Storage Cell<br>
+View Cell<br>
+Crafting Co-Processing Unit<br>
+1k Crafting Storage<br>
+4k Crafting Storage<br>
+16k Crafting Storage<br>
+64k Crafting Storage<br>
+256k Crafting Storage<br>
+Crafting Monitor<br>
+Inscriber Calculation Press<br>
+Inscriber Engineering Press<br>
+Inscriber Logic Press<br>
+Inscriber Silicon Press<br>
+Printed Calculation Circuit<br>
+Printed Engineering Circuit<br>
+Printed Logic Circuit<br>
+Printed silicon<br>
+ME Level Emitter<br>
+ME Energy Level Emitter<br>
+ME Toggle Bus<br>
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+### Compacting
+Quartz Fiber<br>
+Fluix Glass Cable<br>
+
+### Cutting
+Cable Anchor<br>
+
+### Charging
+Charged Certus Quartz Crystal<br>
+Meteorite Compass<br>
