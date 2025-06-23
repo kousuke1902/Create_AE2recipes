@@ -26,6 +26,8 @@ Damaged Budding Quartz<br>
 Chipped Budding Quartz<br>
 Flawed Budding Quartz<br>
 Flawless Budding Quartz<br>
+Quartz Glass<br>
+Vibrant Quartz Glass<br>
 
 ### Deploying
 Fluix Covered Cable<br>
@@ -72,6 +74,10 @@ Printed silicon<br>
 ME Level Emitter<br>
 ME Energy Level Emitter<br>
 ME Toggle Bus<br>
+ME Storage Bus<br>
+ME Crafting Terminal<br>
+ME Pattern Encoding Terminal<br>
+ME Storage Monitor<br>
 
 ### Compacting
 Quartz Fiber<br>
@@ -79,6 +85,9 @@ Fluix Glass Cable<br>
 
 ### Cutting
 Cable Anchor<br>
+
+### Haunting
+Sky Stone Block<br>
 
 ### Charging
 Charged Certus Quartz Crystal<br>
