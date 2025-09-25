@@ -1,7 +1,20 @@
 {
+  "gui.create_ae2recipes.CreativeTab": "Create: AE2 Recipes",
+  "key.create_ae2recipes.category": "Create: AE2 Recipes",
   "item.create_ae2recipes.incomplete_calculation_processor": "組み立て中の演算プロセッサ",
   "item.create_ae2recipes.incomplete_engineering_processor": "組み立て中の情報処理プロセッサ",
   "item.create_ae2recipes.incomplete_logic_processor": "組み立て中の論理プロセッサ",
   "item.create_ae2recipes.incomplete_basic_card": "組み立て中の基本カード",
-  "item.create_ae2recipes.incomplete_advanced_card": "組み立て中の上級カード"
+  "item.create_ae2recipes.incomplete_advanced_card": "組み立て中の上級カード",
+  "item.create_ae2recipes.incomplete_cell_component_1k": "組み立て中の1k MEストレージコンポーネント",
+  "item.create_ae2recipes.incomplete_cell_component_4k": "組み立て中の4k MEストレージコンポーネント",
+  "item.create_ae2recipes.incomplete_cell_component_16k": "組み立て中の16k MEストレージコンポーネント",
+  "item.create_ae2recipes.incomplete_cell_component_64k": "組み立て中の64k MEストレージコンポーネント",
+  "item.create_ae2recipes.incomplete_cell_component_256k": "組み立て中の256k MEストレージコンポーネント",
+  "item.create_ae2recipes.incomplete_spatial_cell_component_2": "組み立て中の2³ 空間コンポーネント",
+  "item.create_ae2recipes.incomplete_spatial_cell_component_16": "組み立て中の16³ 空間コンポーネント",
+  "item.create_ae2recipes.incomplete_spatial_cell_component_128": "組み立て中の128³ 空間コンポーネント",
+  "item.create_ae2recipes.incomplete_item_cell_housing": "組み立て中のMEアイテムセル筐体",
+  "item.create_ae2recipes.incomplete_fluid_cell_housing": "組み立て中のME液体セル筐体",
+  "item.create_ae2recipes.incomplete_blank_pattern": "組み立て中のパターン"
 }

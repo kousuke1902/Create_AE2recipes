@@ -9,6 +9,7 @@ Mod Loader : NeoForge
 # 概要
 AE2のアイテムをCreateの作業機械で制作できるようにするCreateアドオンです．<br>
 CreateとAE2が導入されている環境で動作します．<br>
+導入されるレシピは実用的なものからロマンを求めるものもあります．<br>
 精密機械の生産ラインを組んでコンベアで流れるプロセッサを眺めましょう！
 
 # 追加するレシピ
@@ -18,8 +19,20 @@ Engineering Processor<br>
 Logic Processor<br>
 Basic Card<br>
 Advanced Card<br>
+1k ME Storage Component<br>
+4k ME Storage Component<br>
+16k ME Storage Component<br>
+64k ME Storage Component<br>
+256k ME Storage Component<br>
+2³ Spatial Component<br>
+16³ Spatial Component<br>
+128³ Spatial Component<br>
+ME Item Cell Housing<br>
+ME Fluid Cell Housing<br>
+Blank Pattern<br>
 
 ### Mixing
+Basalt<br>
 Certus Quartz Crystal<br>
 Fluix Crystal<br>
 Damaged Budding Quartz<br>
@@ -28,6 +41,7 @@ Flawed Budding Quartz<br>
 Flawless Budding Quartz<br>
 Quartz Glass<br>
 Vibrant Quartz Glass<br>
+Fluix Pearl<br>
 
 ### Deploying
 Fluix Covered Cable<br>
@@ -52,9 +66,9 @@ Overflow Destruction Card<br>
 16k ME Fluid Storage Cell<br>
 64k ME Fluid Storage Cell<br>
 256k ME Fluid Storage Cell<br>
-2^3 Spatial Storage Cell<br>
-16^3 Spatial Storage Cell<br>
-128^3 Spatial Storage Cell<br>
+2³ Spatial Storage Cell<br>
+16³ Spatial Storage Cell<br>
+128³ Spatial Storage Cell<br>
 View Cell<br>
 Crafting Co-Processing Unit<br>
 1k Crafting Storage<br>
@@ -83,6 +97,11 @@ ME Storage Monitor<br>
 Quartz Fiber<br>
 Fluix Glass Cable<br>
 
+### Mechanical Crafting
+ME Terminal<br>
+ME Conversion Monitor<br>
+ME Pattern Access Terminal<br>
+
 ### Cutting
 Cable Anchor<br>
 
@@ -90,5 +109,4 @@ Cable Anchor<br>
 Sky Stone Block<br>
 
 ### Charging
-Charged Certus Quartz Crystal<br>
 Meteorite Compass<br>

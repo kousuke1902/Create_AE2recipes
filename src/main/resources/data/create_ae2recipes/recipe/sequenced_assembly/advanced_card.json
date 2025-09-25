@@ -16,11 +16,10 @@
         {
           "item": "create_ae2recipes:incomplete_advanced_card"
         },
-        [
-          {
-            "item": "minecraft:diamond"
-          }
-        ]
+        {
+          "item": "minecraft:diamond"
+        }
+
       ],
       "results": [
         {
@@ -34,11 +33,9 @@
         {
           "item": "create_ae2recipes:incomplete_advanced_card"
         },
-        [
-          {
-            "item": "ae2:calculation_processor"
-          }
-        ]
+        {
+          "item": "ae2:calculation_processor"
+        }
       ],
       "results": [
         {
@@ -52,11 +49,9 @@
         {
           "item": "create_ae2recipes:incomplete_advanced_card"
         },
-        [
-          {
-            "item": "minecraft:redstone"
-          }
-        ]
+        {
+          "item": "minecraft:redstone"
+        }
       ],
       "results": [
         {
@@ -70,11 +65,9 @@
         {
           "item": "create_ae2recipes:incomplete_advanced_card"
         },
-        [
-          {
-            "item": "create:iron_sheet"
-          }
-        ]
+        {
+          "item": "create:iron_sheet"
+        }
       ],
       "results": [
         {

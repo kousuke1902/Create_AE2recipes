@@ -6,7 +6,7 @@
   "loops": 1,
   "results": [
     {
-      "id": "ae2:basic_card"
+      "id": "ae2:item_cell_housing"
     }
   ],
   "sequence": [
@@ -14,39 +14,7 @@
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "create_ae2recipes:incomplete_basic_card"
-        },
-        {
-          "item": "create:golden_sheet"
-        }
-      ],
-      "results": [
-        {
-          "id": "create_ae2recipes:incomplete_basic_card"
-        }
-      ]
-    },
-    {
-      "type": "create:deploying",
-      "ingredients": [
-        {
-          "item": "create_ae2recipes:incomplete_basic_card"
-        },
-        {
-          "item": "ae2:calculation_processor"
-        }
-      ],
-      "results": [
-        {
-          "id": "create_ae2recipes:incomplete_basic_card"
-        }
-      ]
-    },
-    {
-      "type": "create:deploying",
-      "ingredients": [
-        {
-          "item": "create_ae2recipes:incomplete_basic_card"
+          "item": "create_ae2recipes:incomplete_item_cell_housing"
         },
         {
           "item": "minecraft:redstone"
@@ -54,7 +22,7 @@
       ],
       "results": [
         {
-          "id": "create_ae2recipes:incomplete_basic_card"
+          "id": "create_ae2recipes:incomplete_item_cell_housing"
         }
       ]
     },
@@ -62,15 +30,47 @@
       "type": "create:deploying",
       "ingredients": [
         {
-          "item": "create_ae2recipes:incomplete_basic_card"
+          "item": "create_ae2recipes:incomplete_item_cell_housing"
         },
         {
-          "item": "create:iron_sheet"
+          "item": "create:copper_sheet"
         }
       ],
       "results": [
         {
-          "id": "create_ae2recipes:incomplete_basic_card"
+          "id": "create_ae2recipes:incomplete_item_cell_housing"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_ae2recipes:incomplete_item_cell_housing"
+        },
+        {
+          "item": "minecraft:redstone"
+        }
+      ],
+      "results": [
+        {
+          "id": "create_ae2recipes:incomplete_item_cell_housing"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "create_ae2recipes:incomplete_item_cell_housing"
+        },
+        {
+          "item": "ae2:quartz_glass"
+        }
+      ],
+      "results": [
+        {
+          "id": "create_ae2recipes:incomplete_item_cell_housing"
         }
       ]
     },
@@ -78,17 +78,17 @@
       "type": "create:pressing",
       "ingredients": [
         {
-          "item": "create_ae2recipes:incomplete_basic_card"
+          "item": "create_ae2recipes:incomplete_item_cell_housing"
         }
       ],
       "results": [
         {
-          "id": "create_ae2recipes:incomplete_basic_card"
+          "id": "create_ae2recipes:incomplete_item_cell_housing"
         }
       ]
     }
   ],
   "transitional_item": {
-    "id": "create_ae2recipes:incomplete_basic_card"
+    "id": "create_ae2recipes:incomplete_item_cell_housing"
   }
 }

@@ -1,8 +1,9 @@
-modLoader="javafml"
-loaderVersion="${loader_version_range}"
+modLoader="javafml" #mandatory
+loaderVersion="${loader_version_range}" #mandatory
 license="${mod_license}"
 
 [[mods]]
+
 modId="${mod_id}"
 version="${mod_version}"
 displayName="${mod_name}"
@@ -11,12 +12,14 @@ description='''${mod_description}'''
 logoFile="icon.png"
 displayURL="https://www.curseforge.com/minecraft/mc-mods/create-ae2-recipes"
 
+
 [[dependencies.${mod_id}]]
-    modId="neoforge"
-    type="required"
-    versionRange="${neo_version_range}"
-    ordering="NONE"
-    side="BOTH"
+modId="neoforge" #mandatory
+type="required" #mandatory
+versionRange="[${neo_version},)" #mandatory
+ordering="NONE"
+side="BOTH"
+
 
 [[dependencies.${mod_id}]]
     modId="minecraft"
@@ -25,16 +28,3 @@ displayURL="https://www.curseforge.com/minecraft/mc-mods/create-ae2-recipes"
     ordering="NONE"
     side="BOTH"
 
-[[dependencies.${mod_id}]]
-modId="create"
-type="required"
-#versionRange="${minecraft_version_range}"
-ordering="AFTER"
-side="BOTH"
-
-[[dependencies.${mod_id}]]
-modId="ae2"
-type="required"
-#versionRange="${minecraft_version_range}"
-ordering="AFTER"
-side="BOTH"

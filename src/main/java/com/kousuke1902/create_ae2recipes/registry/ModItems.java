@@ -27,6 +27,50 @@ public class ModItems
     public static final DeferredItem<Item> INCOMPLETE_ADVANCED_CARD = ITEMS.register("incomplete_advanced_card",
             () -> new Item(new Item.Properties()));
 
+    // 組み立て中の1K MEストレージコンポーネント
+    public static final DeferredItem<Item> INCOMPLETE_CELL_COMPONENT_1k = ITEMS.register("incomplete_cell_component_1k",
+            () -> new Item(new Item.Properties()));
+
+    // 組み立て中の4K MEストレージコンポーネント
+    public static final DeferredItem<Item> INCOMPLETE_CELL_COMPONENT_4k = ITEMS.register("incomplete_cell_component_4k",
+            () -> new Item(new Item.Properties()));
+
+    // 組み立て中の16K MEストレージコンポーネント
+    public static final DeferredItem<Item> INCOMPLETE_CELL_COMPONENT_16k = ITEMS.register("incomplete_cell_component_16k",
+            () -> new Item(new Item.Properties()));
+
+    // 組み立て中の64K MEストレージコンポーネント
+    public static final DeferredItem<Item> INCOMPLETE_CELL_COMPONENT_64k = ITEMS.register("incomplete_cell_component_64k",
+            () -> new Item(new Item.Properties()));
+
+    // 組み立て中の256K MEストレージコンポーネント
+    public static final DeferredItem<Item> INCOMPLETE_CELL_COMPONENT_256k = ITEMS.register("incomplete_cell_component_256k",
+            () -> new Item(new Item.Properties()));
+
+    // 組み立て中の2^3 空間コンポーネント
+    public static final DeferredItem<Item> INCOMPLETE_SPATIAL_CELL_COMPONENT_2 = ITEMS.register("incomplete_spatial_cell_component_2",
+            () -> new Item(new Item.Properties()));
+
+    // 組み立て中の16^3 空間コンポーネント
+    public static final DeferredItem<Item> INCOMPLETE_SPATIAL_CELL_COMPONENT_16 = ITEMS.register("incomplete_spatial_cell_component_16",
+            () -> new Item(new Item.Properties()));
+
+    // 組み立て中の128^3 空間コンポーネント
+    public static final DeferredItem<Item> INCOMPLETE_SPATIAL_CELL_COMPONENT_128 = ITEMS.register("incomplete_spatial_cell_component_128",
+            () -> new Item(new Item.Properties()));
+
+    // 組み立て中のMEアイテムセル筐体
+    public static final DeferredItem<Item> INCOMPLETE_ITEM_CELL_HOUSING = ITEMS.register("incomplete_item_cell_housing",
+            () -> new Item(new Item.Properties()));
+
+    // 組み立て中のME液体セル筐体
+    public static final DeferredItem<Item> INCOMPLETE_FLUID_CELL_HOUSING = ITEMS.register("incomplete_fluid_cell_housing",
+            () -> new Item(new Item.Properties()));
+
+    // 組み立て中のパターン
+    public static final DeferredItem<Item> INCOMPLETE_BLANK_PATTERN = ITEMS.register("incomplete_blank_pattern",
+            () -> new Item(new Item.Properties()));
+
     public static void register(IEventBus eventBus)
     {
         ITEMS.register(eventBus);
