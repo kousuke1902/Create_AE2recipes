@@ -32,9 +32,6 @@ public class CreateAE2recipes
 
         ModItems.register(modEventBus); // アイテム追加
 
-        modEventBus.addListener(this::addCreative);
-
-        modContainer.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
     }
 
     private void commonSetup(final FMLCommonSetupEvent event)
